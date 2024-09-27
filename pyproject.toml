@@ -1,0 +1,4 @@
+[tool.black]
+line-length = 88
+taget-version = ['py312']
+skip-string-normalization = 1
